@@ -9,6 +9,17 @@
         <option value="$PROJECT_DIR$/chapter2/service-hello/pom.xml" />
         <option value="$PROJECT_DIR$/chapter1/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/chapter2/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/service-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/service-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/service-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/service-ribbon/pom.xml" />
       </list>
     </option>
   </component>

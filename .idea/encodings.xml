@@ -9,5 +9,16 @@
     <file url="file://$PROJECT_DIR$/chapter2/eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter2/service-hello" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter2/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3/service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3/service-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4/service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4/service-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5/service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5/service-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5/service-ribbon" charset="UTF-8" />
   </component>
 </project>
